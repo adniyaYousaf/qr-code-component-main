@@ -15,7 +15,7 @@ body {
   font-family: "Outfit", sans-serif;
 }
 .container {
-  height: 61%;
+  height: 62%;
   max-width: 20rem;
   background: white;
   padding: 1rem;
@@ -34,7 +34,7 @@ body {
   text-align: center;
 }
 h1 {
-  font-size: 20px;
+  font-size: 21px;
   padding-bottom: 1rem;
   color: hsl(218, 44%, 22%);
 }
